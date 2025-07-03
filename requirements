@@ -1,6 +1,6 @@
 streamlit
 opencv-python-headless
 joblib
-pillow
+Pillow
 numpy
 scikit-learn
